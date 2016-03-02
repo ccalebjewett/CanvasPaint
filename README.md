@@ -1,0 +1,1 @@
+This is based on Chapter 8 of Matthew MacDonald's HTML5: the missing manual. I fixed a few bugs by initializing the red and thin pens to have the "Selected" class.
